@@ -193,7 +193,7 @@
     margin: 20px 128px 0px 128px;
 }
 .com-left-right2 {
-    margin: 20px 128px 0px 128px;
+    /* margin: 20px 128px 0px 128px; */
     display: flex; 
     justify-content: center; 
     align-items: center;
